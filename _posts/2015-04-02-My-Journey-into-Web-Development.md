@@ -1,4 +1,6 @@
 ---
+layout: post
+title: My Journey into Web Development
 published: true
 ---
 
