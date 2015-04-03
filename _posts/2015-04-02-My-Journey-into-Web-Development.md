@@ -5,7 +5,7 @@ published: true
 ## My Journey into Web Development
 
 ###Learning JavaScript
-I want to learn how HTML, CSS, and JavaScript works together.
+I want to learn how HTML, CSS, and JavaScript work together.
 [Eloquent JavaScript](http://eloquentjavascript.net/)
 
 
