@@ -1,8 +1,8 @@
-+---
-+layout: post
-+title: "Weekly Update!"
-+published: true
-+---
+---
+layout: post
+title: "Weekly Update!"
+published: true
+---
 
 Today was great.  I learn some new thing from my friend <a href="https://github.com/anishkothari">Anish</a>.  He informed me about REST,Representational State Transfer, along with the main verbs for REST and HTTP.  The main verbs for REST and HTTP, which are also used for URL's, are GET, PUT, POST, and DELETE.  I also learned about CRUD, which is CREATE, READ, UPDATE, and DELETE.
 
