@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Hello, my name is Jon Gordon.  Currently, I am a singer-songwriter/musician expanding my horizons in web-development.  I was born and raised in Chicago and I spent a lot of life in Atlanta, GA, Los Angeles, CA, Miami and Jupiter Island, FL.  I was the founder of a quartet R&B Group, from Chicago, called One Chance.  I am currently a founder of a duo called The Gordon Brothers. I enjoy playing basketball, learning new things, and traveling.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[Jon Gordon](mailto:jongordon.biz@gmail.com)
